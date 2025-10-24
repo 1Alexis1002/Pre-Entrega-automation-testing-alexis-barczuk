@@ -8,17 +8,25 @@ El propósito principal es automatizar casos de prueba funcionales del sitio de 
 Entre los escenarios cubiertos se incluyen:
 
 Login.
+
 Visualización del catálogo.
+
 Validación de nombre, descripción y precio.
+
 Agregado de productos al carrito.
+
 Verificación del contenido del carrito.
 
 Tecnologías utilizadas
 
 Python 3.x
+
 Selenium WebDriver
+
 pytest
+
 Google Chrome
+
 ChromeDriver
 
 Instalación y configuración
@@ -27,7 +35,8 @@ Instalación y configuración
 
 bash
 git clone https://github.com/1Alexis1002/Pre-Entrega.git
-cd <nombre del repositorio>
+
+cd -nombre del repositorio-
 
 2-Instalar dependencias
 
