@@ -32,6 +32,7 @@ cd <nombre del repositorio>
 2-Instalar dependencias
 
 pip install selenium pytest
+
 pip install webdriver-manager
 
 Ejecucion de pruebas
