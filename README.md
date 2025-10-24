@@ -37,3 +37,4 @@ pip install webdriver-manager
 Ejecucion de preubas
 pytest -v
 pytest tests/test_carrito.py -v para ejecutar un test especifico
+pytest --html=report.html para ejecutar las pruebas y generar un reporte html
