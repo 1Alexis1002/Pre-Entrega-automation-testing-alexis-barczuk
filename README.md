@@ -7,29 +7,21 @@ Propósito del proyecto
 El propósito principal es automatizar casos de prueba funcionales del sitio de ejemplo SauceDemo, simulando la interacción de un usuario real en el navegador.  
 Entre los escenarios cubiertos se incluyen:
 
-Login.
+Login, visualización del catálogo, validación de nombre descripción y precio, agregado de productos al carrito, verificación del contenido del carrito.
 
-Visualización del catálogo.
+Tecnologías utilizadas:
 
-Validación de nombre, descripción y precio.
+-Python 3.x
 
-Agregado de productos al carrito.
+-Selenium WebDriver
 
-Verificación del contenido del carrito.
+-pytest
 
-Tecnologías utilizadas
+-Google Chrome
 
-Python 3.x
+-ChromeDriver
 
-Selenium WebDriver
-
-pytest
-
-Google Chrome
-
-ChromeDriver
-
-Instalación y configuración
+Instalación y configuración:
 
 1-Clonar el repositorio
 
